@@ -1,0 +1,18 @@
++[ViewController load]
+_main
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[SceneDelegate setWindow:]
+-[SceneDelegate scene:willConnectToSession:options:]
+-[SceneDelegate window]
+-[ViewController viewDidLoad]
+-[ViewController test]
+_func
+_block_block_invoke
+_$s4Test05SwiftA6ObjectC05swiftA0yyFZTo
+_$s4Test05SwiftA6ObjectC05swiftA0yyFZ
+_$ss27_finalizeUninitializedArrayySayxGABnlF
+_$sSa12_endMutationyyF
+_$ss5print_9separator10terminatoryypd_S2StFfA0_
+_$ss5print_9separator10terminatoryypd_S2StFfA1_
+-[SceneDelegate sceneWillEnterForeground:]
+-[SceneDelegate sceneDidBecomeActive:]
