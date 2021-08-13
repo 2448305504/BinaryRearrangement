@@ -1,9 +1,4 @@
-//
-//  SwiftTestObject.swift
-//  Test
-//
-//  Created by 林文俊 on 2021/8/2.
-//
+
 
 import UIKit
 
