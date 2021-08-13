@@ -1,13 +1,4 @@
-/*
- * This file is part of the BLStopwatch package.
- * (c) NewPan <13246884282@163.com>
- *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
- *
- * Click https://github.com/beiliao-mobile/BLStopwatch
- * or https://juejin.im/user/5941fa488d6d810058c0d4df to contact us.
- */
+
 
 #import "BLStopwatch.h"
 #import "pthread.h"
